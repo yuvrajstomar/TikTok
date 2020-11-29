@@ -114,7 +114,15 @@ def extract_tiktok_userid(first_user_video_url):
     tiktok_user_id = first_user_video_url[start:end]
     return tiktok_user_id
 
-
+def extract_unique_video_ids(user_vid_list):
+    '''Extracts and returns unique video ids for each tiktok user'''
+    video_ids = []
+    for user_vid in user_vid_list:
+        start = user_vid.find('o/') + 2
+        end = len(user_vid)
+        vid_id = user_vid[start:end]
+        video_ids.append(vid_id)
+    return video_ids
 
 if __name__ == "__main__":
     
@@ -129,7 +137,9 @@ if __name__ == "__main__":
         user_vid_list = list_user_video_urls(driver, profile_url)
         first_user_video_url = user_vid_list[0]
         tiktok_user_id = extract_tiktok_userid(first_user_video_url)
-        print(tiktok_user_id)
+        # print(tiktok_user_id)
+        video_ids = extract_unique_video_ids(user_vid_list)
+        print(video_ids)
     
 
     # print(user_vid_list)

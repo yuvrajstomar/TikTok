@@ -1908,3 +1908,696 @@ JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va
 [Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
 [Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
 [Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45530 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45120 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+1606646526904	geckodriver	INFO	Listening on 127.0.0.1:59799
+1606646526907	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--window-size=1920,1080" "--headless" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledKohfT"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606646529558	Marionette	INFO	Listening on port 33117
+1606646529655	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 205178, MediaDecoderStateMachine #1] WARNING: 7f05a1cf37a0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205178, MediaDecoderStateMachine #1] WARNING: Decoder=7f05ba9f9400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 205178, MediaDecoderStateMachine #1] WARNING: 7f05a2488fc0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205178, MediaDecoderStateMachine #1] WARNING: Decoder=7f05bab28000 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 205178, MediaDecoderStateMachine #1] WARNING: 7f0590ef3c80 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205178, MediaDecoderStateMachine #1] WARNING: Decoder=7f0598714800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 280: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 205178, MediaDecoderStateMachine #1] WARNING: 7f05bfee5530 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205178, MediaDecoderStateMachine #1] WARNING: Decoder=7f058f275800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+1606646558149	geckodriver	INFO	Listening on 127.0.0.1:41913
+1606646558155	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--window-size=1920,1080" "--headless" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileX3mDQC"
+*** You are running in headless mode.
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606646560885	Marionette	INFO	Listening on port 45511
+1606646561014	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 205899, MediaDecoderStateMachine #1] WARNING: 7f4c01220a10 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205899, MediaDecoderStateMachine #1] WARNING: Decoder=7f4c0aaa8800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 205178, MediaDecoderStateMachine #1] WARNING: 7f058adc6fc0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205178, MediaDecoderStateMachine #1] WARNING: Decoder=7f058f275800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 205899, MediaDecoderStateMachine #1] WARNING: 7f4bddff9300 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205899, MediaDecoderStateMachine #1] WARNING: Decoder=7f4bdff33400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 205899, MediaDecoderStateMachine #1] WARNING: 7f4bd8c5f530 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205899, MediaDecoderStateMachine #1] WARNING: Decoder=7f4bdc3c1000 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 280: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 205899, MediaDecoderStateMachine #1] WARNING: 7f4c00bf7bb0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205899, MediaDecoderStateMachine #1] WARNING: Decoder=7f4bdc963c00 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 280: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 205899, MediaDecoderStateMachine #1] WARNING: 7f4c01b457e0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205899, MediaDecoderStateMachine #1] WARNING: Decoder=7f4bd497b000 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 205178, MediaDecoderStateMachine #1] WARNING: 7f058adc6a10 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205178, MediaDecoderStateMachine #1] WARNING: Decoder=7f058f275800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 205899, MediaDecoderStateMachine #1] WARNING: 7f4bcfcb4120 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205899, MediaDecoderStateMachine #1] WARNING: Decoder=7f4bd497b000 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 205178, MediaDecoderStateMachine #1] WARNING: 7f058d03e530 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205178, MediaDecoderStateMachine #1] WARNING: Decoder=7f058f275800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 205899, MediaDecoderStateMachine #1] WARNING: 7f4bcfcb46d0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205899, MediaDecoderStateMachine #1] WARNING: Decoder=7f4bd497b000 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 205178, MediaDecoderStateMachine #1] WARNING: 7f058adc66d0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205178, MediaDecoderStateMachine #1] WARNING: Decoder=7f058f275800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 205899, MediaDecoderStateMachine #1] WARNING: 7f4bd482f6d0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205899, MediaDecoderStateMachine #1] WARNING: Decoder=7f4bd497b000 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 205178, MediaDecoderStateMachine #1] WARNING: 7f058adc66d0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205178, MediaDecoderStateMachine #1] WARNING: Decoder=7f058f275800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 205899, MediaDecoderStateMachine #1] WARNING: 7f4bcfcb4120 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205899, MediaDecoderStateMachine #1] WARNING: Decoder=7f4bd497b000 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 205178, MediaDecoderStateMachine #1] WARNING: 7f058adc66d0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205178, MediaDecoderStateMachine #1] WARNING: Decoder=7f058f275800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 205899, MediaDecoderStateMachine #1] WARNING: 7f4bcfcb4120 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205899, MediaDecoderStateMachine #1] WARNING: Decoder=7f4bd497b000 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 205178, MediaDecoderStateMachine #1] WARNING: 7f058adc66d0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205178, MediaDecoderStateMachine #1] WARNING: Decoder=7f058f275800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 205899, MediaDecoderStateMachine #1] WARNING: 7f4bcfcb4120 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205899, MediaDecoderStateMachine #1] WARNING: Decoder=7f4bd497b000 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 205178, MediaDecoderStateMachine #1] WARNING: 7f058adc66d0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205178, MediaDecoderStateMachine #1] WARNING: Decoder=7f058f275800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 205899, MediaDecoderStateMachine #1] WARNING: 7f4bcfcb4120 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205899, MediaDecoderStateMachine #1] WARNING: Decoder=7f4bd497b000 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 205178, MediaDecoderStateMachine #1] WARNING: 7f058adc66d0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205178, MediaDecoderStateMachine #1] WARNING: Decoder=7f058f275800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 205899, MediaDecoderStateMachine #1] WARNING: 7f4bcfcb4120 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205899, MediaDecoderStateMachine #1] WARNING: Decoder=7f4bd497b000 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 205178, MediaDecoderStateMachine #1] WARNING: 7f058adc66d0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205178, MediaDecoderStateMachine #1] WARNING: Decoder=7f058f275800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 205899, MediaDecoderStateMachine #1] WARNING: 7f4bcfcb4120 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205899, MediaDecoderStateMachine #1] WARNING: Decoder=7f4bd497b000 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 205178, MediaDecoderStateMachine #1] WARNING: 7f058adc66d0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205178, MediaDecoderStateMachine #1] WARNING: Decoder=7f058f275800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 205899, MediaDecoderStateMachine #1] WARNING: 7f4bcfcb4120 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205899, MediaDecoderStateMachine #1] WARNING: Decoder=7f4bd497b000 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 205178, MediaDecoderStateMachine #1] WARNING: 7f058adc66d0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205178, MediaDecoderStateMachine #1] WARNING: Decoder=7f058f275800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 205899, MediaDecoderStateMachine #1] WARNING: 7f4bcfcb4120 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205899, MediaDecoderStateMachine #1] WARNING: Decoder=7f4bd497b000 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 205178, MediaDecoderStateMachine #1] WARNING: 7f058adc66d0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205178, MediaDecoderStateMachine #1] WARNING: Decoder=7f058f275800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 205899, MediaDecoderStateMachine #1] WARNING: 7f4bcfcb4120 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205899, MediaDecoderStateMachine #1] WARNING: Decoder=7f4bd497b000 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 205178, MediaDecoderStateMachine #1] WARNING: 7f058adc66d0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205178, MediaDecoderStateMachine #1] WARNING: Decoder=7f058f275800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 205899, MediaDecoderStateMachine #1] WARNING: 7f4bcfcb4120 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205899, MediaDecoderStateMachine #1] WARNING: Decoder=7f4bd497b000 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 205178, MediaDecoderStateMachine #1] WARNING: 7f058adc66d0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205178, MediaDecoderStateMachine #1] WARNING: Decoder=7f058f275800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 205899, MediaDecoderStateMachine #1] WARNING: 7f4bcfcb4120 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205899, MediaDecoderStateMachine #1] WARNING: Decoder=7f4bd497b000 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 205178, MediaDecoderStateMachine #1] WARNING: 7f058adc66d0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205178, MediaDecoderStateMachine #1] WARNING: Decoder=7f058f275800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 205899, MediaDecoderStateMachine #1] WARNING: 7f4bcfcb4050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205899, MediaDecoderStateMachine #1] WARNING: Decoder=7f4bd497b000 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+1606646883953	geckodriver	INFO	Listening on 127.0.0.1:57905
+1606646883958	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--window-size=1920,1080" "--headless" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5accVY"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606646886845	Marionette	INFO	Listening on port 37933
+1606646886906	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 211181, MediaDecoderStateMachine #1] WARNING: 7f23f60cd1f0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 211181, MediaDecoderStateMachine #1] WARNING: Decoder=7f241caf3400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 211181, MediaDecoderStateMachine #1] WARNING: 7f23f30c56d0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 211181, MediaDecoderStateMachine #1] WARNING: Decoder=7f23f30a5400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 205178, MediaDecoderStateMachine #1] WARNING: 7f058adc66d0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205178, MediaDecoderStateMachine #1] WARNING: Decoder=7f058f275800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 211181, MediaDecoderStateMachine #1] WARNING: 7f23ef18a710 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 211181, MediaDecoderStateMachine #1] WARNING: Decoder=7f23ee84b000 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 211181, MediaDecoderStateMachine #1] WARNING: 7f23f607e460 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 211181, MediaDecoderStateMachine #1] WARNING: Decoder=7f23e8333400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 205899, MediaDecoderStateMachine #1] WARNING: 7f4bcfcb4050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205899, MediaDecoderStateMachine #1] WARNING: Decoder=7f4bd497b000 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 205178, MediaDecoderStateMachine #1] WARNING: 7f058adc66d0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 205178, MediaDecoderStateMachine #1] WARNING: Decoder=7f058f275800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 211181, MediaDecoderStateMachine #1] WARNING: 7f23e3104c80 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 211181, MediaDecoderStateMachine #1] WARNING: Decoder=7f23e8333400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
