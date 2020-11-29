@@ -33,7 +33,7 @@ def configure():
 
     firefox_options = Options()
     firefox_options.add_argument("--window-size=%s" % WINDOW_SIZE)
-    firefox_options.add_argument("--headless")
+    # firefox_options.add_argument("--headless")
     firefox_options.add_argument("--incognito")
     driver = webdriver.Firefox(executable_path = GECKODRIVER_PATH, options = firefox_options)
     return driver
@@ -85,13 +85,14 @@ def list_user_video_urls(driver, url):
         user_vid_list.append(link.get('href'))
     return user_vid_list
 
-def download_video(driver, tiktok_video_id):
+def download_video(driver, tiktok_video_url):
     '''Downloads specified video id to disk'''
     driver.get("https://musicallydown.com/?ref=more")
     search_field = driver.find_element_by_xpath('//*[@id="link_url"]')
-    search_field.send_keys(tiktok_video_id)
+    search_field.send_keys(tiktok_video_url)
     search_field.send_keys(Keys.ENTER)
-    download_button = driver.find_element_by_xpath('//*[@id="welcome"]/div/div[2]/div[2]/a[1]')
+    #download_button = driver.find_element_by_xpath('//*[@id="welcome"]/div/div[2]/div[2]/a[1]')
+    download_button = driver.find_element_by_xpath('/html/body/div[1]/div/div[2]/div[2]/a[1]')
     download_button.click()
 
 def parse_excel(filepath):
@@ -124,11 +125,27 @@ def extract_unique_video_ids(user_vid_list):
         video_ids.append(vid_id)
     return video_ids
 
+def dump_videos(driver, user_tiktok_dict):
+    '''Takes userid and creates subdirectories for each videoid'''
+    user_identifier = list(user_tiktok_dict.keys())[0]
+    print(f"Processing Tiktok Profile: {user_identifier}")
+    user_videos_urls = list(user_tiktok_dict.values())[0]
+    parent_dir = os.getcwd()
+    directory = user_identifier
+    path = os.path.join(parent_dir, directory) 
+    os.mkdir(path)
+    os.chdir(path)
+    for video in user_videos_urls:
+        print(f"Downloading Video: {video}")
+        download_video(driver, video)
+        time.sleep(2)
+
+
 if __name__ == "__main__":
     
     filepath = 'source.xlsx'
     total_url_list = parse_excel(filepath)
-    sample_urls = total_url_list[0:3]
+    sample_urls = total_url_list[0:1]
     
     driver = configure()
     profile_url_list = get_main_url_list(driver, sample_urls)
@@ -137,13 +154,11 @@ if __name__ == "__main__":
         user_vid_list = list_user_video_urls(driver, profile_url)
         first_user_video_url = user_vid_list[0]
         tiktok_user_id = extract_tiktok_userid(first_user_video_url)
-        # print(tiktok_user_id)
-        video_ids = extract_unique_video_ids(user_vid_list)
-        print(video_ids)
-    
+        user_tiktok_dict = {tiktok_user_id: user_vid_list}
+        dump_videos(driver, user_tiktok_dict)
+        # video_ids = extract_unique_video_ids(user_vid_list)
 
-    # print(user_vid_list)
-    # user_vid_list = user_vid_list[:]
+    
     # for video in user_vid_list:
     #     download_video(driver, video)
     #     time.sleep(3)
