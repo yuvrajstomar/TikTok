@@ -21,7 +21,6 @@ def extract_hashtags(text):
     for word in text.split(): 
         if word[0] == '#': 
             hashtag_list.append(word[1:]) 
-    print("The hashtags in \"" + text + "\" are :") 
     return hashtag_list
 
 def configure():
@@ -108,17 +107,31 @@ def parse_excel(filepath):
         data.append(worksheet.cell_value(row, col))
     return(data)
 
+def extract_tiktok_userid(first_user_video_url):
+    '''Extracts and returns userid from first user video'''
+    start = first_user_video_url.find('@')
+    end = first_user_video_url.find('/', start)
+    tiktok_user_id = first_user_video_url[start:end]
+    return tiktok_user_id
+
+
+
 if __name__ == "__main__":
     
     filepath = 'source.xlsx'
     total_url_list = parse_excel(filepath)
-    sample_urls = total_url_list[0:2]
+    sample_urls = total_url_list[0:3]
     
     driver = configure()
     profile_url_list = get_main_url_list(driver, sample_urls)
-    print(profile_url_list)    
-    # user_vid_list = list_user_video_urls(driver, profile_url)
     
+    for profile_url in profile_url_list:
+        user_vid_list = list_user_video_urls(driver, profile_url)
+        first_user_video_url = user_vid_list[0]
+        tiktok_user_id = extract_tiktok_userid(first_user_video_url)
+        print(tiktok_user_id)
+    
+
     # print(user_vid_list)
     # user_vid_list = user_vid_list[:]
     # for video in user_vid_list:

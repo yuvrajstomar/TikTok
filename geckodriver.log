@@ -1207,3 +1207,704 @@ JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN
 JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
 JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1606644699188	geckodriver	INFO	Listening on 127.0.0.1:54147
+1606644699192	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--window-size=1920,1080" "--headless" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletSugUK"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606644701571	Marionette	INFO	Listening on port 45761
+1606644701625	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1606644726755	geckodriver	INFO	Listening on 127.0.0.1:56997
+1606644726758	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--window-size=1920,1080" "--headless" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqnQOdR"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606644729220	Marionette	INFO	Listening on port 39623
+1606644729299	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1606644746934	geckodriver	INFO	Listening on 127.0.0.1:35229
+1606644746940	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--window-size=1920,1080" "--headless" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebxrDDY"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606644749408	Marionette	INFO	Listening on port 39381
+1606644749479	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1606644809978	geckodriver	INFO	Listening on 127.0.0.1:58111
+1606644809984	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--window-size=1920,1080" "--headless" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAhfjgG"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606644812471	Marionette	INFO	Listening on port 33725
+1606644812532	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc46e61e940 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc462360c00 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 280: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc43ed27bb0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc44169b000 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 280: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc472b61cc0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43dc5a800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc43b99ff30 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc44048f800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/tiktok/web/node/_next/static/1.0.3.466/pages/share/user.js, line 1: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: 
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc432ab2600 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d6d0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc4323c6e60 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+1606645281652	geckodriver	INFO	Listening on 127.0.0.1:37349
+1606645281657	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--window-size=1920,1080" "--headless" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezxdbMQ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606645284390	Marionette	INFO	Listening on port 41911
+1606645284503	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe7250c6870 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe741809800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 280: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe72d7bef30 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe7415f7400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe71e66e870 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe71eed9000 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe71d9523d0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe7177cc400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 280: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe725099ef0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77cc0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70df03cc0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70ddedc80 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77f30 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd774a0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd774a0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd774a0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd774a0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd774a0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd774a0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd774a0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd774a0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+1606645938350	geckodriver	INFO	Listening on 127.0.0.1:39875
+1606645938355	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--window-size=1920,1080" "--headless" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI2yN9F"
+*** You are running in headless mode.
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+1606645941147	Marionette	INFO	Listening on port 39553
+1606645941194	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 280: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f31a2be2fc0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f319cd1b400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f31757f5bb0 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f3178674800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f31733c0e20 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f31747b4400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 280: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AEBcjRN2AQAAcgGlFNAlZPqDmY98zPKy_X3mg863-bkx6RIhbbx1hwnHzRhO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f317b5af710 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 195755, MediaDecoderStateMachine #1] WARNING: 7f316af45050 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 195755, MediaDecoderStateMachine #1] WARNING: Decoder=7f317be10800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 178260, MediaDecoderStateMachine #1] WARNING: 7fc431c0d390 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 178260, MediaDecoderStateMachine #1] WARNING: Decoder=7fc43e438800 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 185683, MediaDecoderStateMachine #1] WARNING: 7fe70dd77230 OpenCubeb() failed to init cubeb: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/AudioStream.cpp:330
+[Child 185683, MediaDecoderStateMachine #1] WARNING: Decoder=7fe712888400 [OnMediaSinkAudioError]: file /build/firefox-aT1bk7/firefox-83.0+build2/dom/media/MediaDecoderStateMachine.cpp:3892
