@@ -1035,3 +1035,175 @@ JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AID2OhN
 JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AID2OhN2AQAA7TcFjxGTXFBe_NbmuFfHy8pUc_HD5t_SiOLGuDr0KzFYi5Mc&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
 JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AID2OhN2AQAA7TcFjxGTXFBe_NbmuFfHy8pUc_HD5t_SiOLGuDr0KzFYi5Mc&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1606642212613	geckodriver	INFO	Listening on 127.0.0.1:60483
+1606642212620	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--window-size=1920,1080" "--headless" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7Zzu61"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606642214927	Marionette	INFO	Listening on port 34525
+1606642215060	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBtVhN2AQAAc_sHva2czPKpSoJLszDcxNDBv8nZy7sW-b2NIvgYhkiuH1DO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBtVhN2AQAAc_sHva2czPKpSoJLszDcxNDBv8nZy7sW-b2NIvgYhkiuH1DO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBtVhN2AQAAc_sHva2czPKpSoJLszDcxNDBv8nZy7sW-b2NIvgYhkiuH1DO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBtVhN2AQAAc_sHva2czPKpSoJLszDcxNDBv8nZy7sW-b2NIvgYhkiuH1DO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 280: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBtVhN2AQAAc_sHva2czPKpSoJLszDcxNDBv8nZy7sW-b2NIvgYhkiuH1DO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBtVhN2AQAAc_sHva2czPKpSoJLszDcxNDBv8nZy7sW-b2NIvgYhkiuH1DO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBtVhN2AQAAc_sHva2czPKpSoJLszDcxNDBv8nZy7sW-b2NIvgYhkiuH1DO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBtVhN2AQAAc_sHva2czPKpSoJLszDcxNDBv8nZy7sW-b2NIvgYhkiuH1DO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Error: Loading chunk 3 failed.
+(error: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/static/js/3.js)
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 280: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBtVhN2AQAAc_sHva2czPKpSoJLszDcxNDBv8nZy7sW-b2NIvgYhkiuH1DO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBtVhN2AQAAc_sHva2czPKpSoJLszDcxNDBv8nZy7sW-b2NIvgYhkiuH1DO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBtVhN2AQAAc_sHva2czPKpSoJLszDcxNDBv8nZy7sW-b2NIvgYhkiuH1DO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBtVhN2AQAAc_sHva2czPKpSoJLszDcxNDBv8nZy7sW-b2NIvgYhkiuH1DO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 280: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBtVhN2AQAAc_sHva2czPKpSoJLszDcxNDBv8nZy7sW-b2NIvgYhkiuH1DO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBtVhN2AQAAc_sHva2czPKpSoJLszDcxNDBv8nZy7sW-b2NIvgYhkiuH1DO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBtVhN2AQAAc_sHva2czPKpSoJLszDcxNDBv8nZy7sW-b2NIvgYhkiuH1DO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBtVhN2AQAAc_sHva2czPKpSoJLszDcxNDBv8nZy7sW-b2NIvgYhkiuH1DO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 280: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBtVhN2AQAAc_sHva2czPKpSoJLszDcxNDBv8nZy7sW-b2NIvgYhkiuH1DO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBtVhN2AQAAc_sHva2czPKpSoJLszDcxNDBv8nZy7sW-b2NIvgYhkiuH1DO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBtVhN2AQAAc_sHva2czPKpSoJLszDcxNDBv8nZy7sW-b2NIvgYhkiuH1DO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBtVhN2AQAAc_sHva2czPKpSoJLszDcxNDBv8nZy7sW-b2NIvgYhkiuH1DO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBtVhN2AQAAc_sHva2czPKpSoJLszDcxNDBv8nZy7sW-b2NIvgYhkiuH1DO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBtVhN2AQAAc_sHva2czPKpSoJLszDcxNDBv8nZy7sW-b2NIvgYhkiuH1DO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBtVhN2AQAAc_sHva2czPKpSoJLszDcxNDBv8nZy7sW-b2NIvgYhkiuH1DO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBtVhN2AQAAc_sHva2czPKpSoJLszDcxNDBv8nZy7sW-b2NIvgYhkiuH1DO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 280: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 280: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBtVhN2AQAAc_sHva2czPKpSoJLszDcxNDBv8nZy7sW-b2NIvgYhkiuH1DO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBtVhN2AQAAc_sHva2czPKpSoJLszDcxNDBv8nZy7sW-b2NIvgYhkiuH1DO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBtVhN2AQAAc_sHva2czPKpSoJLszDcxNDBv8nZy7sW-b2NIvgYhkiuH1DO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBtVhN2AQAAc_sHva2czPKpSoJLszDcxNDBv8nZy7sW-b2NIvgYhkiuH1DO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Error: Loading chunk 3 failed.
+(error: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/static/js/3.js)
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBtVhN2AQAAc_sHva2czPKpSoJLszDcxNDBv8nZy7sW-b2NIvgYhkiuH1DO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBtVhN2AQAAc_sHva2czPKpSoJLszDcxNDBv8nZy7sW-b2NIvgYhkiuH1DO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBtVhN2AQAAc_sHva2czPKpSoJLszDcxNDBv8nZy7sW-b2NIvgYhkiuH1DO&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBtVhN2AQAAc_sHva2czPKpSoJLszDcxNDBv8nZy7sW-b2NIvgYhkiuH1DO&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1606644385605	geckodriver	INFO	Listening on 127.0.0.1:38347
+1606644385608	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--window-size=1920,1080" "--headless" "--incognito" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVCagQ5"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606644388151	Marionette	INFO	Listening on port 41919
+1606644388247	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf-tb-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sf16-scmcdn-va.ibytedtos.com/goofy/secsdk-captcha/va/2.15.21/captcha.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADlcRN2AQAAUbnLUA9-XfvUq7LYheGh0kMDdjqwsOp1bxRE4JEVn1xeOx2i&hTc6j8Njvn--z=q, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
