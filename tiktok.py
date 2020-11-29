@@ -91,7 +91,7 @@ def download_video(driver, tiktok_video_url):
     search_field = driver.find_element_by_xpath('//*[@id="link_url"]')
     search_field.send_keys(tiktok_video_url)
     search_field.send_keys(Keys.ENTER)
-    #download_button = driver.find_element_by_xpath('//*[@id="welcome"]/div/div[2]/div[2]/a[1]')
+    time.sleep(1)
     download_button = driver.find_element_by_xpath('/html/body/div[1]/div/div[2]/div[2]/a[1]')
     download_button.click()
 
