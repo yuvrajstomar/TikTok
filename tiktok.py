@@ -16,6 +16,15 @@ def convert_str_to_number(x):
             total_stars = float(x[:-1]) * num_map.get(x[-1].upper(), 1)
     return int(total_stars)
 
+def extract_hashtags(text):
+    '''wonderful method to seamlessly extract hashtags'''
+    hashtag_list = [] 
+    for word in text.split(): 
+        if word[0] == '#': 
+            hashtag_list.append(word[1:]) 
+    print("The hashtags in \"" + text + "\" are :") 
+    return hashtag_list
+
 def configure():
     '''configure selenium webdriver'''
     #https://musicallydown.com/?ref=more
@@ -45,7 +54,7 @@ def list_user_metadata(driver, urls):
     '''returns metadata specific to a video'''
     
     print(f"\nScraping Metadata...\n")
-    
+
     for url in urls:
         print(f"Parsing URL: {url}")
         driver.get(url)
@@ -59,6 +68,12 @@ def list_user_metadata(driver, urls):
         shares_xpath = driver.find_element_by_xpath('//*[@id="main"]/div[2]/div[2]/div/div/main/div/div[1]/span[1]/div/div[1]/div[4]/div[2]/div[3]/strong')
         shares = convert_str_to_number(shares_xpath.text)
         print(f"URL: {url}\nLikes: {likes}\nComments: {comments}\nShares: {shares}\n")
+
+        caption_xpath = driver.find_element_by_xpath('//*[@id="main"]/div[2]/div[2]/div/div/main/div/div[1]/span[1]/div/div[1]/div[2]')
+        hashtag_list = extract_hashtags(caption_xpath.text)
+
+        print(f"URL: {url}\nLikes: {likes}\nComments: {comments}\nShares: {shares}\nHashTags: {hashtag_list}")
+        
 
 def list_user_video_urls(driver, url):
     '''returns a list of video ids for specified tiktok user id'''
