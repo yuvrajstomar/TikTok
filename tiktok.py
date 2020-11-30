@@ -80,17 +80,13 @@ def list_user_metadata(driver, user_tiktok_dict):
         comments = convert_str_to_number(comments_xpath.text)
         shares_xpath = driver.find_element_by_xpath(
             '//*[@id="main"]/div[2]/div[2]/div/div/main/div/div[1]/span[1]/div/div[1]/div[4]/div[2]/div[3]/strong')
-        print(f"Shares: {shares_xpath.text}")
         shares = convert_str_to_number(shares_xpath.text)
-        print(f"URL: {url}\nLikes: {likes}\nComments: {comments}\nShares: {shares}\n")
         caption_xpath = driver.find_element_by_xpath(
             '//*[@id="main"]/div[2]/div[2]/div/div/main/div/div[1]/span[1]/div/div[1]/div[2]')
         hashtag_list = extract_hashtags(caption_xpath.text)
-        print(f"URL: {url}\nLikes: {likes}\nComments: {comments}\nShares: {shares}\nHashTags: {hashtag_list}")
-        tiktok_current_user_dict = {'tiktok_user_id': tiktok_user_id, 'video_id': vid_id, 'likes': likes, 'comments': comments, 'shares': shares, 'hashtags': hashtag_list}
+        tiktok_current_user_dict = {'UserID': tiktok_user_id, 'VideoID': vid_id, 'Likes': likes, 'Comments': comments, 'Shares': shares, 'Hashtags': hashtag_list, 'URL': url}
         print(f"TikTok Video: {tiktok_current_user_dict}")
         current_profile_tiktok_list.append(tiktok_current_user_dict)
-        
     return current_profile_tiktok_list
 
 def list_user_video_urls(driver, url):
@@ -162,11 +158,24 @@ def dump_videos(fp, driver, user_tiktok_dict, firefox_options):
         download_video(driver, video)
     os.chdir(parent_dir)
 
+def write_to_csv(dict_data):
+    '''Writes tiktok analytics to disk via csv'''
+    csv_columns = ['UserID', 'VideoID', 'Likes', 'Comments', 'Shares', 'Hashtags', 'URL']
+    csv_file = "output-tiktok.csv"
+    try:
+        with open(csv_file, 'w') as csvfile:
+            writer = csv.DictWriter(csvfile, fieldnames = csv_columns)
+            writer.writeheader()
+            for data in dict_data:
+                writer.writerow(data)
+    except IOError:
+        print("I/O error")
+
 if __name__ == "__main__":
     master_tiktok_list = []
     filepath = 'source.xlsx'
     total_url_list = parse_excel(filepath)
-    sample_urls = total_url_list[0:8]
+    sample_urls = total_url_list[0:4]
     fp, driver, firefox_options = configure()
     profile_url_list = get_main_url_list(driver, sample_urls)
     for profile_url in profile_url_list:
@@ -174,11 +183,9 @@ if __name__ == "__main__":
         first_user_video_url = user_vid_list[0]
         tiktok_user_id = extract_tiktok_userid(first_user_video_url)
         user_tiktok_dict = {tiktok_user_id: user_vid_list}
-        #dump_videos(fp, driver, user_tiktok_dict, firefox_options)
+        dump_videos(fp, driver, user_tiktok_dict, firefox_options)
         current_profile_tiktok_list = list_user_metadata(driver, user_tiktok_dict)
-        master_tiktok_list.append(current_profile_tiktok_list)
-        
-        
-        
-        
-    
+        master_tiktok_list.extend(current_profile_tiktok_list)
+    print(master_tiktok_list)
+    print(f"Writing tiktok data to disk...")
+    write_to_csv(master_tiktok_list)
