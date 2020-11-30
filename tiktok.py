@@ -4,7 +4,6 @@ from selenium.webdriver.common.keys import Keys
 from bs4 import BeautifulSoup
 import re, time, os, xlrd
 
-
 def convert_str_to_number(x):
     """Magical method to convert K to 1000s """
     total_stars = 0
@@ -16,7 +15,6 @@ def convert_str_to_number(x):
             total_stars = float(x[:-1]) * num_map.get(x[-1].upper(), 1)
     return int(total_stars)
 
-
 def extract_hashtags(text):
     """Wonderful method to seamlessly extract hashtags"""
     hashtag_list = []
@@ -25,23 +23,26 @@ def extract_hashtags(text):
             hashtag_list.append(word[1:])
     return hashtag_list
 
-
 def configure():
     """Configure selenium webdriver"""
-    # https://musicallydown.com/?ref=more
-    # https://snaptik.app/
-
+    fp = webdriver.FirefoxProfile()
+    fp.set_preference('browser.download.manager.showWhenStarting', False)
+    fp.set_preference('browser.helperApps.neverAsk.openFile', 'video/mp4')
+    fp.set_preference('browser.helperApps.neverAsk.saveToDisk', 'video/mp4')
+    fp.set_preference('browser.helperApps.alwaysAsk.force', False)
+    fp.set_preference('browser.download.manager.alertOnEXEOpen', False)
+    fp.set_preference('browser.download.manager.focusWhenStarting', False)
+    fp.set_preference('browser.download.manager.useWindow', False)
+    fp.set_preference('browser.download.manager.showAlertOnComplete', False)
+    fp.set_preference('browser.download.manager.closeWhenDone', False)
     GECKODRIVER_PATH = '/usr/local/bin/geckodriver'
     WINDOW_SIZE = "1920,1080"
-
     firefox_options = Options()
     firefox_options.add_argument("--window-size=%s" % WINDOW_SIZE)
     firefox_options.add_argument("--headless")
     firefox_options.add_argument("--incognito")
-    driver = webdriver.Firefox(executable_path=GECKODRIVER_PATH, options=firefox_options)
-
-    return driver
-
+    driver = webdriver.Firefox(fp, executable_path = GECKODRIVER_PATH, options = firefox_options)
+    return (fp, driver, firefox_options)
 
 def get_main_url_list(driver, urls):
     """Returns main user profile url"""
@@ -55,35 +56,26 @@ def get_main_url_list(driver, urls):
         main_profile_urls.append(url)
     return main_profile_urls
 
-
 def list_user_metadata(driver, urls):
     """Returns metadata specific to a video"""
-
     print(f"\nScraping Metadata...\n")
-
     for url in urls:
         print(f"Parsing URL: {url}")
         driver.get(url)
-
         likes_xpath = driver.find_element_by_xpath(
             '//*[@id="main"]/div[2]/div[2]/div/div/main/div/div[1]/span[1]/div/div[1]/div[4]/div[2]/div[1]/strong')
         likes = convert_str_to_number(likes_xpath.text)
-
         comments_xpath = driver.find_element_by_xpath(
             '//*[@id="main"]/div[2]/div[2]/div/div/main/div/div[1]/span[1]/div/div[1]/div[4]/div[2]/div[2]/strong')
         comments = convert_str_to_number(comments_xpath.text)
-
         shares_xpath = driver.find_element_by_xpath(
             '//*[@id="main"]/div[2]/div[2]/div/div/main/div/div[1]/span[1]/div/div[1]/div[4]/div[2]/div[3]/strong')
         shares = convert_str_to_number(shares_xpath.text)
         print(f"URL: {url}\nLikes: {likes}\nComments: {comments}\nShares: {shares}\n")
-
         caption_xpath = driver.find_element_by_xpath(
             '//*[@id="main"]/div[2]/div[2]/div/div/main/div/div[1]/span[1]/div/div[1]/div[2]')
         hashtag_list = extract_hashtags(caption_xpath.text)
-
         print(f"URL: {url}\nLikes: {likes}\nComments: {comments}\nShares: {shares}\nHashTags: {hashtag_list}")
-
 
 def list_user_video_urls(driver, url):
     """Returns a list of video ids for specified tiktok user id"""
@@ -96,19 +88,17 @@ def list_user_video_urls(driver, url):
         user_vid_list.append(link.get('href'))
     return user_vid_list
 
-
 def download_video(driver, tiktok_video_url):
     """Downloads specified video id to disk"""
     driver.get("https://musicallydown.com/?ref=more")
     search_field = driver.find_element_by_xpath('//*[@id="link_url"]')
     search_field.send_keys(tiktok_video_url)
+    time.sleep(1)
     search_field.send_keys(Keys.ENTER)
-    time.sleep(3)
+    time.sleep(1)
     download_button = driver.find_element_by_xpath('/html/body/div[1]/div/div[2]/div[2]/a[1]')
     download_button.click()
     
-
-
 def parse_excel(filepath):
     """Reads tiktok campaign videos from spreadsheet and returns"""
     workbook = xlrd.open_workbook(filepath)
@@ -122,14 +112,12 @@ def parse_excel(filepath):
         data.append(worksheet.cell_value(row, col))
     return (data)
 
-
 def extract_tiktok_userid(first_user_video_url):
     """Extracts and returns userid from first user video"""
     start = first_user_video_url.find('@')
     end = first_user_video_url.find('/', start)
     tiktok_user_id = first_user_video_url[start:end]
     return tiktok_user_id
-
 
 def extract_unique_video_ids(user_vid_list):
     """Extracts and returns unique video ids for each tiktok user"""
@@ -141,8 +129,7 @@ def extract_unique_video_ids(user_vid_list):
         video_ids.append(vid_id)
     return video_ids
 
-
-def dump_videos(driver, user_tiktok_dict):
+def dump_videos(fp, driver, user_tiktok_dict, firefox_options):
     """Takes userid and creates subdirectories for each video_id"""
     user_identifier = list(user_tiktok_dict.keys())[0]
     print(f"Processing Tiktok Profile: {user_identifier}")
@@ -152,51 +139,34 @@ def dump_videos(driver, user_tiktok_dict):
     path = os.path.join(parent_dir, directory)
     os.mkdir(path)
     os.chdir(path)
-
-    fp = webdriver.FirefoxProfile()
+    firefox_options.add_argument("--headless")
+    firefox_options.add_argument("--incognito")
     fp.set_preference('browser.download.folderList', 2)
-    fp.set_preference('browser.download.manager.showWhenStarting', False)
     fp.set_preference('browser.download.dir', path)
-    fp.set_preference('browser.helperApps.neverAsk.openFile', 'video/mp4')
-    fp.set_preference('browser.helperApps.neverAsk.saveToDisk', 'video/mp4')
-    fp.set_preference('browser.helperApps.alwaysAsk.force', False)
-    fp.set_preference('browser.download.manager.alertOnEXEOpen', False)
-    fp.set_preference('browser.download.manager.focusWhenStarting', False)
-    fp.set_preference('browser.download.manager.useWindow', False)
-    fp.set_preference('browser.download.manager.showAlertOnComplete', False)
-    fp.set_preference('browser.download.manager.closeWhenDone', False)
-    driver = webdriver.Firefox(fp)
-
-
+    driver = webdriver.Firefox(fp, options = firefox_options)
     for video in user_videos_urls:
         print(f"Downloading Video: {video}")
         download_video(driver, video)
         time.sleep(2)
-
+    os.chdir(parent_dir)
 
 if __name__ == "__main__":
-
     filepath = 'source.xlsx'
     total_url_list = parse_excel(filepath)
-    sample_urls = total_url_list[0:5]
-
-    driver = configure()
+    sample_urls = total_url_list[0:1]
+    fp, driver, firefox_options = configure()
     profile_url_list = get_main_url_list(driver, sample_urls)
-
     for profile_url in profile_url_list:
         user_vid_list = list_user_video_urls(driver, profile_url)
         first_user_video_url = user_vid_list[0]
         tiktok_user_id = extract_tiktok_userid(first_user_video_url)
         user_tiktok_dict = {tiktok_user_id: user_vid_list}
-        dump_videos(driver, user_tiktok_dict)
+        dump_videos(fp, driver, user_tiktok_dict, firefox_options)
         # video_ids = extract_unique_video_ids(user_vid_list)
-
     # for video in user_vid_list:
     #     download_video(driver, video)
     #     time.sleep(3)
-
     # print(user_vid_list)
     # list_user_metadata(driver, user_vid_list)
-
     # for video in user_vid_list[0]
     #     print(video)
